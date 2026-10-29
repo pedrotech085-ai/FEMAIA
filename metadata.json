@@ -1,0 +1,5 @@
+{
+  "name": "Fema IA",
+  "description": "Fema — Atelier Académique IA (corrections d'épreuves, fiches de révision, quiz interactifs et analyse d'erreurs)",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

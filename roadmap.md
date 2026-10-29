@@ -1,0 +1,2 @@
+- [ ] SMS confirmation (postponed by user: paid service, needs Twilio account)
+- [x] Two-factor authentication via authenticator app

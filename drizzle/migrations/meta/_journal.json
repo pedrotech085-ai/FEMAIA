@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793116351411,
+      "tag": "0000_fema_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793142316294,
+      "tag": "0001_fema_core_schema_safe",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793142487588,
+      "tag": "0002_server_usage_quotas",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793142499598,
+      "tag": "0003_server_only_refund",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793145725328,
+      "tag": "0004_fema_core_schema_safe",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1793145759585,
+      "tag": "0005_server_usage_quotas",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1793145770590,
+      "tag": "0006_server_only_refund",
+      "breakpoints": true
+    }
+  ]
+}
